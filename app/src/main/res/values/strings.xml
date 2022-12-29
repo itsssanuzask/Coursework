@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Anuja Simkhada</string>
+    <string name="logo_name">A</string>
+    <string name="slogan_name">Like a normal girl but cooler</string>
+    <string name="powered_by">Powered By Anuza Co.</string>
+
+
+    <!-- Strings for On Boarding Screen  -->
+
+    <!--Titles -->
+    <string name="first_slider_title">Stay Healthy</string>
+    <string name="second_slider_title">Do Your Work</string>
+    <string name="third_slider_title">Lead Your Group</string>
+
+
+    <!--Descriptions -->
+    <string name="first_slider_desc">The MORE you are yourself,the MORE you shine. Try yoga,I DO!</string>
+    <string name="second_slider_desc">Do the best you can until you know better.Work hard,have fun ,make history.</string>
+    <string name="third_slider_desc">The whole is other than the sum of the parts.Find a group to challenge and inspire you.</string>
+
+
+    <!-- Buttons -->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="lets_get_started">Lets get started</string>
+
+</resources>
